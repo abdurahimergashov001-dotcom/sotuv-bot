@@ -225,8 +225,8 @@ bot.action(['order_bot', 'order_web', 'order_smm'], (ctx) => {
 // MENYU: BOG'LANISH
 bot.hears('📞 Bog\'lanish', (ctx) => {
     const msg = `📞 <b>Biz bilan bog'lanish:</b>\n\n` +
-                `✈️ <b>Telegram:</b> @username\n` +
-                `☎️ <b>Telefon:</b> +998901234567\n` +
+                `✈️ <b>Telegram:</b> @abdurahimergashovv\n` +
+                `☎️ <b>Telefon:</b> +998997063940\n` +
                 `🕒 <b>Ish vaqti:</b> 09:00 — 18:00\n`;
                 
     ctx.reply(msg, { parse_mode: 'HTML' });
